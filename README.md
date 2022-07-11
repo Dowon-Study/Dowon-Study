@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-
-ㅇㄹㄴㅇㅁ
+This is my profile for studying coding! 📚
+Right now, I'm trying to solve one problem a day. 🧑‍💻
+Have fun coding everyone! 😁
 
 
 <!--
